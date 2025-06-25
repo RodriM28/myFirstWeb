@@ -5,6 +5,9 @@ body {
     padding: 0px;
 }
 
+.borda{
+    border: 1px solid black;
+}
 .header, .footer {
     display: flex;
     justify-content: center;
